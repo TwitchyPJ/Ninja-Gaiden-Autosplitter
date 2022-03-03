@@ -1,3 +1,4 @@
+// The majority of this autosplitter is Cactuar's work. I've updated it to include the nes emulator MesenRTA
 state("mesen", "0.9.8.0")
 {
     byte act:           "MesenCore.dll", 0x4327750, 0xB8, 0x78, 0x6d;
